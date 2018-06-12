@@ -27,8 +27,8 @@ $form = array(
 		'unknown_method' => 'Unknown server request method'
 	),
 	'email' => array(
-		'from' => 'muse@musefree.com',
-		'to' => 'muse@musefree.com'
+		'from' => 'javiermanzano312@gmail.com',
+		'to' => 'javiermanzano312@gmail.com'
 	),
 	'fields' => array(
 		'custom_U1012' => array(

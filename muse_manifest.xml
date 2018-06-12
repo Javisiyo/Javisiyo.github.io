@@ -1,0 +1,55 @@
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="JavierManzano.com" resolutions="1x" timestamp="1528805082697">
+  <folder name="css">
+    <file name="site_global.css" crc="273364216"/>
+    <file name="index.css" crc="249586738" ref="index"/>
+    <file name="iefonts_index.css" crc="3813689639" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4216313831" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="474374037" ref="index"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index"/>
+    <file name="webpro.js" crc="4143865194" ref="index"/>
+    <file name="form_check.php" crc="154010282" ref="index"/>
+    <file name="form_throttle.php" crc="266437015" ref="index"/>
+    <file name="form_process.php" crc="512629711" ref="index"/>
+    <file name="form-u1011.php" crc="4260306350" ref="index"/>
+    <file name="require.js" crc="3951022091" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="u1282-6.png" crc="483785774" ref="index"/>
+    <file name="u1281-4.png" crc="3950509471" ref="index"/>
+    <file name="whatsapp image 2018-05-29 at 135710-crop-u1283.jpg" crc="4261176172" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="filomena linea.jpg" crc="402831474" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="filomena final.jpg" crc="431502653" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="kaori.jpg" crc="189936606" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lisa.jpg" crc="3907164164" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="montañerolinea.jpg" crc="4199378454" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="montañero.jpg" crc="4222321002" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="concept sombrita.jpg" crc="3956931018" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="casco.jpg" crc="296453757" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1099-4.png" crc="302261594" ref="index"/>
+    <file name="u1706-4.png" crc="3764659714" ref="index"/>
+    <file name="u1044-4.png" crc="482715781" ref="index"/>
+  </folder>
+  <file name="index.html" crc="343165636" seo="true" mt="1528804953337" redirect="true"/>
+</manifest>
